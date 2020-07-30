@@ -1,0 +1,9 @@
+[(1, 'eval_1'), (1, 'eval_2'), (1, 'eval_3'), (1, 'eval_4')]
+[1, 1, 1, 1]
+[(1, 'eval_1'), (1, 'eval_2')]
+[1, 1]
+[(1, 'eval_1'), (1, 'eval_2'), (1, 'eval_3')]
+[1, 1, 1]
+[(1, 'eval_mysum'), (1, 'eval_mysum'), (1, 'eval_average'), (1, 'eval_average'), (1, 'eval_sqsum'), (1, 'eval_sqsum'), (1, 'eval_sd'), (1, 'eval_sd')]
+[1, 1, 1, 1, 1, 1, 1, 1]
+10.0

@@ -1,0 +1,24 @@
+{1: 1}
+{1: 1}
+[(1, 'eval_1'), (1, 'eval_2'), (1, 'eval_3')]
+[1, 1, 1]
+{'some': 40}
+{'some': 40}
+[(1, 'eval_1'), (1, 'eval_2'), (1, 'eval_3')]
+[1, 1, 1]
+True
+True
+[(0, 'eval_heterogram.eval_1: wrong answer'), (0, 'eval_heterogram.eval_2: wrong answer'), (0, 'eval_heterogram.eval_3: wrong answer'), (0, 'eval_heterogram.eval_4: wrong answer')]
+[0, 0, 0, 0]
+[0]
+[0]
+[(1, 'eval_listzero.eval_1'), (1, 'eval_listzero.eval_2'), (1, 'eval_listzero.eval_3'), (1, 'eval_listzero.eval_4'), (1, 'eval_listzero.eval_5'), (1, 'eval_listzero.eval_6'), (1, 'eval_listzero.eval_7'), (1, 'eval_listzero.eval_8'), (1, 'eval_listzero.eval_9')]
+[1, 1, 1, 1, 1, 1, 1, 1, 1]
+[]
+0
+0
+[(1, 'eval_compstring.eval_1'), (1, 'eval_compstring.eval_2'), (1, 'eval_compstring.eval_3'), (1, 'eval_compstring.eval_4'), (1, 'eval_compstring.eval_5')]
+[1, 1, 1, 1, 1]
+[(0, 'eval_1: No module named Q6_1'), (0, 'eval_2: No module named Q6_1'), (0, 'eval_3: No module named Q6_1'), (0, 'eval_4: No module named Q6_1'), (0, 'eval_5: No module named Q6_1'), (0, 'eval_6: No module named Q6_1')]
+[0, 0, 0, 0, 0, 0]
+16

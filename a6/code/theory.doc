@@ -1,0 +1,27 @@
+1. CONSTRUCTOR:
+	A constructor in python is used to initialise the attributes of the class. The name of the constructor is always "__init__". Example:
+	class rectangle:
+		def __init__ (self):
+			length = 5
+			breadth = 3
+	This initialises the values of length and breadth to 5 and 3 units respectively.
+
+2. SELF-KEYWORD:
+	The self keyword is used to reference to the object itself. A function, irrespective of the required parameters, always has a parameter "self" to be able to reference to itself. Example:
+	class demo:
+		def display(self):
+			print "Hello World!"
+	demo = demo()
+	demo.display()
+	The output of this code will be "Hello World!". The keyword, self, is used to "tell" the program that the current class is being refered to.
+
+3. STATIC ATTRIBUTES:
+	Static attributes are those attributes that are on a class level rather than on the instance level. Example:
+	class circle:
+		pi = 3.14
+		def area(self, radius):
+			return circle.pi*radius*radius
+	Here, "pi" is a static variable whose value is equal to "3.14". It is called by <class_name>.<variable_name>.
+
+4. STATIC ATTRIBUTES IN PYTHON AND STATIC VARIABLES IN C:
+	Static variables in both languages retain their value even if they are out-of-scope and can be modified in the program. In python, static attributes used for a function are declared in the class of the function. They don't require any keywords unlike in C. In C, the static variables are initialized by the keyword "static".
